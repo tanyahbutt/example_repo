@@ -3,7 +3,7 @@ title: "Simple document"
 author: Tanya Butt
 date: September 16th, 2021
 output: 
-  html_document
+  github_document
   
 ---
 
